@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "Astrologer",
+    "slug": "Astrologer",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "Astrologer"
+}
